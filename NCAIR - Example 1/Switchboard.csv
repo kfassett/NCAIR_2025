@@ -1,0 +1,7 @@
+CurrentStudents_2022,CurrentStudents_2021,CurrentStudents_2020,CurrentStudents_2019
+Term Code,Term_Code,Term,FILE_TERM
+Banner ID,Banner_ID,ID,ID
+First Name,FIRST_NAME,FIRST,FNAME
+Sex,SEX,SEX,SEX
+Type,STYPE_DESC,Student Type,Student Type
+Paid_Amount,PAID AMOUNT,PAID AMT,Paid
